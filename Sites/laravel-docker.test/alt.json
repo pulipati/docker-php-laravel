@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "My test post",
+      "author": "Naresh  P"
+    },
+    {
+      "title": "My another post",
+      "author": "Naresh test"
+    }
+  ],
+  "profile": [
+    {
+      "first_name": "pulipati",
+      "last_name" : "naresh",
+      "email": "abc@test.com"
+    }
+  ]
+}
